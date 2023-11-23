@@ -1,0 +1,16 @@
+body {
+  background-color: wheat;
+  border-radius: 50px;
+}
+.body9 {
+  background-color: #ffbf9b;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 5px 10px #a9907e;
+}
+.body10 {
+  background-color: #fa9884;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 5px 10px #a9907e;
+}
